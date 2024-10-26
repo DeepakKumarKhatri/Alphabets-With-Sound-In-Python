@@ -497,8 +497,3 @@ class Alphabets:
             Alphabets.z("Z")
 c=Alphabets
 c.mainmenu()
-
-
-
-
-
